@@ -1,0 +1,211 @@
+  <li><a href="http://regsho.finra.org/CNMSshvol20210630.txt">Wednesday 30th</a> (TXT file 323 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210629.txt">Tuesday 29th</a> (TXT file 320 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210628.txt">Monday 28th</a> (TXT file 324 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210625.txt">Friday 25th</a> (TXT file 317 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210624.txt">Thursday 24th</a> (TXT file 319 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210623.txt">Wednesday 23rd</a> (TXT file 318 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210622.txt">Tuesday 22nd</a> (TXT file 315 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210621.txt">Monday 21st</a> (TXT file 318 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210618.txt">Friday 18th</a> (TXT file 319 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210617.txt">Thursday 17th</a> (TXT file 321 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210616.txt">Wednesday 16th</a> (TXT file 318 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210615.txt">Tuesday 15th</a> (TXT file 320 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210614.txt">Monday 14th</a> (TXT file 323 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210611.txt">Friday 11th</a> (TXT file 318 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210610.txt">Thursday 10th</a> (TXT file 321 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210609.txt">Wednesday 9th</a> (TXT file 319 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210608.txt">Tuesday 8th</a> (TXT file 320 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210607.txt">Monday 7th</a> (TXT file 317 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210604.txt">Friday 4th</a> (TXT file 315 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210603.txt">Thursday 3rd</a> (TXT file 316 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210602.txt">Wednesday 2nd</a> (TXT file 319 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210601.txt">Tuesday 1st</a> (TXT file 322 KB)</li>
+</ul>
+<h2>FINRA/NASDAQ TRF Chicago</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210630.txt">Wednesday 30th</a> (TXT file 87 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210629.txt">Tuesday 29th</a> (TXT file 86 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210628.txt">Monday 28th</a> (TXT file 93 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210625.txt">Friday 25th</a> (TXT file 85 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210624.txt">Thursday 24th</a> (TXT file 85 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210623.txt">Wednesday 23rd</a> (TXT file 83 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210622.txt">Tuesday 22nd</a> (TXT file 82 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210621.txt">Monday 21st</a> (TXT file 87 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210618.txt">Friday 18th</a> (TXT file 85 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210617.txt">Thursday 17th</a> (TXT file 89 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210616.txt">Wednesday 16th</a> (TXT file 85 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210615.txt">Tuesday 15th</a> (TXT file 82 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210614.txt">Monday 14th</a> (TXT file 89 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210611.txt">Friday 11th</a> (TXT file 83 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210610.txt">Thursday 10th</a> (TXT file 87 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210609.txt">Wednesday 9th</a> (TXT file 89 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210608.txt">Tuesday 8th</a> (TXT file 90 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210607.txt">Monday 7th</a> (TXT file 89 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210604.txt">Friday 4th</a> (TXT file 83 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210603.txt">Thursday 3rd</a> (TXT file 82 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210602.txt">Wednesday 2nd</a> (TXT file 88 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210601.txt">Tuesday 1st</a> (TXT file 98 KB)</li>
+</ul>
+<h2>ADF</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210630.txt">Wednesday 30th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210629.txt">Tuesday 29th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210628.txt">Monday 28th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210625.txt">Friday 25th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210624.txt">Thursday 24th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210623.txt">Wednesday 23rd</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210622.txt">Tuesday 22nd</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210621.txt">Monday 21st</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210618.txt">Friday 18th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210617.txt">Thursday 17th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210616.txt">Wednesday 16th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210615.txt">Tuesday 15th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210614.txt">Monday 14th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210611.txt">Friday 11th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210610.txt">Thursday 10th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210609.txt">Wednesday 9th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210608.txt">Tuesday 8th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210607.txt">Monday 7th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210604.txt">Friday 4th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210603.txt">Thursday 3rd</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210602.txt">Wednesday 2nd</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210601.txt">Tuesday 1st</a> (TXT file 65 bytes)</li>
+</ul>
+<h2>FINRA/NASDAQ TRF Carteret</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210630.txt">Wednesday 30th</a> (TXT file 295 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210629.txt">Tuesday 29th</a> (TXT file 293 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210628.txt">Monday 28th</a> (TXT file 296 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210625.txt">Friday 25th</a> (TXT file 291 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210624.txt">Thursday 24th</a> (TXT file 292 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210623.txt">Wednesday 23rd</a> (TXT file 291 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210622.txt">Tuesday 22nd</a> (TXT file 289 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210621.txt">Monday 21st</a> (TXT file 291 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210618.txt">Friday 18th</a> (TXT file 292 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210617.txt">Thursday 17th</a> (TXT file 293 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210616.txt">Wednesday 16th</a> (TXT file 291 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210615.txt">Tuesday 15th</a> (TXT file 293 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210614.txt">Monday 14th</a> (TXT file 295 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210611.txt">Friday 11th</a> (TXT file 291 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210610.txt">Thursday 10th</a> (TXT file 293 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210609.txt">Wednesday 9th</a> (TXT file 292 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210608.txt">Tuesday 8th</a> (TXT file 292 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210607.txt">Monday 7th</a> (TXT file 290 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210604.txt">Friday 4th</a> (TXT file 288 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210603.txt">Thursday 3rd</a> (TXT file 290 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210602.txt">Wednesday 2nd</a> (TXT file 292 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210601.txt">Tuesday 1st</a> (TXT file 295 KB)</li>
+</ul>
+<h2>FINRA/NYSE TRF</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210630.txt">Wednesday 30th</a> (TXT file 236 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210629.txt">Tuesday 29th</a> (TXT file 231 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210628.txt">Monday 28th</a> (TXT file 234 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210625.txt">Friday 25th</a> (TXT file 231 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210624.txt">Thursday 24th</a> (TXT file 232 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210623.txt">Wednesday 23rd</a> (TXT file 230 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210622.txt">Tuesday 22nd</a> (TXT file 229 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210621.txt">Monday 21st</a> (TXT file 231 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210618.txt">Friday 18th</a> (TXT file 233 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210617.txt">Thursday 17th</a> (TXT file 235 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210616.txt">Wednesday 16th</a> (TXT file 231 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210615.txt">Tuesday 15th</a> (TXT file 235 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210614.txt">Monday 14th</a> (TXT file 237 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210611.txt">Friday 11th</a> (TXT file 232 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210610.txt">Thursday 10th</a> (TXT file 233 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210609.txt">Wednesday 9th</a> (TXT file 232 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210608.txt">Tuesday 8th</a> (TXT file 234 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210607.txt">Monday 7th</a> (TXT file 232 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210604.txt">Friday 4th</a> (TXT file 230 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210603.txt">Thursday 3rd</a> (TXT file 232 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210602.txt">Wednesday 2nd</a> (TXT file 235 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210601.txt">Tuesday 1st</a> (TXT file 235 KB)</li>
+</ul>
+<h2>ORF</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FORFshvol20210630.txt">Wednesday 30th</a> (TXT file 140 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210629.txt">Tuesday 29th</a> (TXT file 137 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210628.txt">Monday 28th</a> (TXT file 140 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210625.txt">Friday 25th</a> (TXT file 139 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210624.txt">Thursday 24th</a> (TXT file 138 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210623.txt">Wednesday 23rd</a> (TXT file 138 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210622.txt">Tuesday 22nd</a> (TXT file 138 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210621.txt">Monday 21st</a> (TXT file 143 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210618.txt">Friday 18th</a> (TXT file 137 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210617.txt">Thursday 17th</a> (TXT file 138 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210616.txt">Wednesday 16th</a> (TXT file 139 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210615.txt">Tuesday 15th</a> (TXT file 138 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210614.txt">Monday 14th</a> (TXT file 143 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210611.txt">Friday 11th</a> (TXT file 140 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210610.txt">Thursday 10th</a> (TXT file 142 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210609.txt">Wednesday 9th</a> (TXT file 140 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210608.txt">Tuesday 8th</a> (TXT file 142 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210607.txt">Monday 7th</a> (TXT file 145 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210604.txt">Friday 4th</a> (TXT file 141 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210603.txt">Thursday 3rd</a> (TXT file 143 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210602.txt">Wednesday 2nd</a> (TXT file 145 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210601.txt">Tuesday 1st</a> (TXT file 147 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210713.txt">Tuesday 13th</a> (TXT file 318 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210712.txt">Monday 12th</a> (TXT file 317 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210709.txt">Friday 9th</a> (TXT file 316 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210708.txt">Thursday 8th</a> (TXT file 320 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210707.txt">Wednesday 7th</a> (TXT file 318 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210706.txt">Tuesday 6th</a> (TXT file 323 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210702.txt">Friday 2nd</a> (TXT file 317 KB)</li>
+  <li><a href="http://regsho.finra.org/CNMSshvol20210701.txt">Thursday 1st</a> (TXT file 323 KB)</li>
+</ul>
+<h2>FINRA/NASDAQ TRF Chicago</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210713.txt">Tuesday 13th</a> (TXT file 82 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210712.txt">Monday 12th</a> (TXT file 86 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210709.txt">Friday 9th</a> (TXT file 80 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210708.txt">Thursday 8th</a> (TXT file 89 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210707.txt">Wednesday 7th</a> (TXT file 89 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210706.txt">Tuesday 6th</a> (TXT file 96 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210702.txt">Friday 2nd</a> (TXT file 85 KB)</li>
+  <li><a href="http://regsho.finra.org/FNQCshvol20210701.txt">Thursday 1st</a> (TXT file 91 KB)</li>
+</ul>
+<h2>ADF</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210713.txt">Tuesday 13th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210712.txt">Monday 12th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210709.txt">Friday 9th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210708.txt">Thursday 8th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210707.txt">Wednesday 7th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210706.txt">Tuesday 6th</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210702.txt">Friday 2nd</a> (TXT file 65 bytes)</li>
+  <li><a href="http://regsho.finra.org/FNRAshvol20210701.txt">Thursday 1st</a> (TXT file 65 bytes)</li>
+</ul>
+<h2>FINRA/NASDAQ TRF Carteret</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210713.txt">Tuesday 13th</a> (TXT file 291 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210712.txt">Monday 12th</a> (TXT file 290 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210709.txt">Friday 9th</a> (TXT file 289 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210708.txt">Thursday 8th</a> (TXT file 293 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210707.txt">Wednesday 7th</a> (TXT file 292 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210706.txt">Tuesday 6th</a> (TXT file 296 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210702.txt">Friday 2nd</a> (TXT file 290 KB)</li>
+  <li><a href="http://regsho.finra.org/FNSQshvol20210701.txt">Thursday 1st</a> (TXT file 295 KB)</li>
+</ul>
+<h2>FINRA/NYSE TRF</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210713.txt">Tuesday 13th</a> (TXT file 230 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210712.txt">Monday 12th</a> (TXT file 229 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210709.txt">Friday 9th</a> (TXT file 231 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210708.txt">Thursday 8th</a> (TXT file 234 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210707.txt">Wednesday 7th</a> (TXT file 229 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210706.txt">Tuesday 6th</a> (TXT file 234 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210702.txt">Friday 2nd</a> (TXT file 231 KB)</li>
+  <li><a href="http://regsho.finra.org/FNYXshvol20210701.txt">Thursday 1st</a> (TXT file 236 KB)</li>
+</ul>
+<h2>ORF</h2>
+<ul>
+  <li><a href="http://regsho.finra.org/FORFshvol20210713.txt">Tuesday 13th</a> (TXT file 142 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210712.txt">Monday 12th</a> (TXT file 137 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210709.txt">Friday 9th</a> (TXT file 133 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210708.txt">Thursday 8th</a> (TXT file 137 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210707.txt">Wednesday 7th</a> (TXT file 136 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210706.txt">Tuesday 6th</a> (TXT file 142 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210702.txt">Friday 2nd</a> (TXT file 135 KB)</li>
+  <li><a href="http://regsho.finra.org/FORFshvol20210701.txt">Thursday 1st</a> (TXT file 128 KB)</li>
+  
